@@ -20,7 +20,6 @@ Aplicación para obtener y consultar temperaturas de capitales europeas utilizan
 
 ```bash
 git clone <url-del-repositorio>
-cd "PIA/UT3/EJERCICIO 3"
 ```
 
 ### 2. Instalar dependencias Python
