@@ -1,0 +1,1095 @@
+[
+    {
+        "name": {
+            "common": "Italy",
+            "official": "Italian Republic",
+            "nativeName": {
+                "ita": {
+                    "official": "Repubblica italiana",
+                    "common": "Italia"
+                }
+            }
+        },
+        "tld": [
+            ".it"
+        ],
+        "cca2": "IT",
+        "ccn3": "380",
+        "cioc": "ITA",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "EUR": {
+                "symbol": "€",
+                "name": "Euro"
+            }
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "9"
+            ]
+        },
+        "capital": [
+            "Rome"
+        ],
+        "altSpellings": [
+            "IT",
+            "Italian Republic",
+            "Repubblica italiana"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "ita": "Italian",
+            "cat": "Catalan"
+        },
+        "latlng": [
+            42.83333333,
+            12.83333333
+        ],
+        "landlocked": false,
+        "borders": [
+            "AUT",
+            "FRA",
+            "SMR",
+            "SVN",
+            "CHE",
+            "VAT"
+        ],
+        "area": 301336.0,
+        "demonyms": {
+            "eng": {
+                "f": "Italian",
+                "m": "Italian"
+            },
+            "fra": {
+                "f": "Italienne",
+                "m": "Italien"
+            }
+        },
+        "cca3": "ITA",
+        "translations": {
+            "ara": {
+                "official": "الجمهورية الإيطالية",
+                "common": "إيطاليا"
+            },
+            "bre": {
+                "official": "Republik Italia",
+                "common": "Italia"
+            },
+            "ces": {
+                "official": "Italská republika",
+                "common": "Itálie"
+            },
+            "cym": {
+                "official": "Italian Republic",
+                "common": "Italy"
+            },
+            "deu": {
+                "official": "Italienische Republik",
+                "common": "Italien"
+            },
+            "est": {
+                "official": "Itaalia Vabariik",
+                "common": "Itaalia"
+            },
+            "fin": {
+                "official": "Italian tasavalta",
+                "common": "Italia"
+            },
+            "fra": {
+                "official": "République italienne",
+                "common": "Italie"
+            },
+            "hrv": {
+                "official": "talijanska Republika",
+                "common": "Italija"
+            },
+            "hun": {
+                "official": "Olasz Köztársaság",
+                "common": "Olaszország"
+            },
+            "ind": {
+                "official": "Republik Italia",
+                "common": "Italia"
+            },
+            "ita": {
+                "official": "Repubblica italiana",
+                "common": "Italia"
+            },
+            "jpn": {
+                "official": "イタリア共和国",
+                "common": "イタリア"
+            },
+            "kor": {
+                "official": "이탈리아 공화국",
+                "common": "이탈리아"
+            },
+            "nld": {
+                "official": "Italiaanse Republiek",
+                "common": "Italië"
+            },
+            "per": {
+                "official": "جمهوری ایتالیا",
+                "common": "ایتالیا"
+            },
+            "pol": {
+                "official": "Republika Włoska",
+                "common": "Włochy"
+            },
+            "por": {
+                "official": "República Italiana",
+                "common": "Itália"
+            },
+            "rus": {
+                "official": "итальянская Республика",
+                "common": "Италия"
+            },
+            "slk": {
+                "official": "Talianska republika",
+                "common": "Taliansko"
+            },
+            "spa": {
+                "official": "República Italiana",
+                "common": "Italia"
+            },
+            "srp": {
+                "official": "Италијанска Република",
+                "common": "Италија"
+            },
+            "swe": {
+                "official": "Republiken Italien",
+                "common": "Italien"
+            },
+            "tur": {
+                "official": "İtalyan Cumhuriyeti",
+                "common": "İtalya"
+            },
+            "urd": {
+                "official": "جمہوریہ اطالیہ",
+                "common": "اطالیہ"
+            },
+            "zho": {
+                "official": "意大利共和国",
+                "common": "意大利"
+            }
+        },
+        "flag": "🇮🇹",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/8M1K27TDj7StTRTq8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/365331"
+        },
+        "population": 58927633,
+        "gini": {
+            "2017": 35.9
+        },
+        "fifa": "ITA",
+        "car": {
+            "signs": [
+                "I"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "continents": [
+            "Europe"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/it.png",
+            "svg": "https://flagcdn.com/it.svg",
+            "alt": "The flag of Italy is composed of three equal vertical bands of green, white and red."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/it.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/it.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                41.9,
+                12.48
+            ]
+        },
+        "postalCode": {
+            "format": "#####",
+            "regex": "^(\\d{5})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Jersey",
+            "official": "Bailiwick of Jersey",
+            "nativeName": {
+                "eng": {
+                    "official": "Bailiwick of Jersey",
+                    "common": "Jersey"
+                },
+                "fra": {
+                    "official": "Bailliage de Jersey",
+                    "common": "Jersey"
+                },
+                "nrf": {
+                    "official": "Bailliage dé Jèrri",
+                    "common": "Jèrri"
+                }
+            }
+        },
+        "tld": [
+            ".je"
+        ],
+        "cca2": "JE",
+        "ccn3": "832",
+        "independent": false,
+        "status": "officially-assigned",
+        "unMember": false,
+        "currencies": {
+            "GBP": {
+                "symbol": "£",
+                "name": "British pound"
+            },
+            "JEP": {
+                "symbol": "£",
+                "name": "Jersey pound"
+            }
+        },
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "4"
+            ]
+        },
+        "capital": [
+            "Saint Helier"
+        ],
+        "altSpellings": [
+            "JE",
+            "Bailiwick of Jersey",
+            "Bailliage de Jersey",
+            "Bailliage dé Jèrri"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English",
+            "fra": "French",
+            "nrf": "Jèrriais"
+        },
+        "latlng": [
+            49.25,
+            -2.16666666
+        ],
+        "landlocked": false,
+        "area": 116.0,
+        "demonyms": {
+            "eng": {
+                "f": "Channel Islander",
+                "m": "Channel Islander"
+            },
+            "fra": {
+                "f": "Jersiaise",
+                "m": "Jersiais"
+            }
+        },
+        "cca3": "JEY",
+        "translations": {
+            "ara": {
+                "official": "جيرزي",
+                "common": "جيرزي"
+            },
+            "bre": {
+                "official": "Jerzenez",
+                "common": "Jerzenez"
+            },
+            "ces": {
+                "official": "Rychtářství Jersey",
+                "common": "Jersey"
+            },
+            "cym": {
+                "official": "Bailiwick of Jersey",
+                "common": "Jersey"
+            },
+            "deu": {
+                "official": "Vogtei Jersey",
+                "common": "Jersey"
+            },
+            "est": {
+                "official": "Jersey foogtkond",
+                "common": "Jersey"
+            },
+            "fin": {
+                "official": "Jersey",
+                "common": "Jersey"
+            },
+            "fra": {
+                "official": "Bailliage de Jersey",
+                "common": "Jersey"
+            },
+            "hrv": {
+                "official": "Struka od Jersey",
+                "common": "Jersey"
+            },
+            "hun": {
+                "official": "Jersey",
+                "common": "Jersey"
+            },
+            "ind": {
+                "official": "Bailiwick Jersey",
+                "common": "Jersey"
+            },
+            "ita": {
+                "official": "Baliato di Jersey",
+                "common": "Isola di Jersey"
+            },
+            "jpn": {
+                "official": "ジャージの得意分野",
+                "common": "ジャージー"
+            },
+            "kor": {
+                "official": "저지 섬",
+                "common": "저지 섬"
+            },
+            "nld": {
+                "official": "Baljuwschap Jersey",
+                "common": "Jersey"
+            },
+            "per": {
+                "official": "جرزی",
+                "common": "جرزی"
+            },
+            "pol": {
+                "official": "Jersey",
+                "common": "Jersey"
+            },
+            "por": {
+                "official": "Bailiado de Jersey",
+                "common": "Jersey"
+            },
+            "rus": {
+                "official": "Коронное владение Джерси",
+                "common": "Джерси"
+            },
+            "slk": {
+                "official": "Bailiwick Jersey",
+                "common": "Jersey"
+            },
+            "spa": {
+                "official": "Bailía de Jersey",
+                "common": "Jersey"
+            },
+            "srp": {
+                "official": "Џерзи",
+                "common": "Џерзи"
+            },
+            "swe": {
+                "official": "Jersey",
+                "common": "Jersey"
+            },
+            "tur": {
+                "official": "Jersey",
+                "common": "Jersey"
+            },
+            "urd": {
+                "official": "جرزی",
+                "common": "جرزی"
+            },
+            "zho": {
+                "official": "泽西岛",
+                "common": "泽西岛"
+            }
+        },
+        "flag": "🇯🇪",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/rXG8GZZtsqK92kTCA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/367988"
+        },
+        "population": 103267,
+        "car": {
+            "signs": [
+                "GBJ"
+            ],
+            "side": "left"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "continents": [
+            "Europe"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/je.png",
+            "svg": "https://flagcdn.com/je.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/je.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/je.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                49.18,
+                -2.1
+            ]
+        },
+        "postalCode": {
+            "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+            "regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$"
+        }
+    },
+    {
+        "name": {
+            "common": "North Macedonia",
+            "official": "Republic of North Macedonia",
+            "nativeName": {
+                "mkd": {
+                    "official": "Република Северна Македонија",
+                    "common": "Македонија"
+                }
+            }
+        },
+        "tld": [
+            ".mk"
+        ],
+        "cca2": "MK",
+        "ccn3": "807",
+        "cioc": "MKD",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "MKD": {
+                "symbol": "den",
+                "name": "denar"
+            }
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "89"
+            ]
+        },
+        "capital": [
+            "Skopje"
+        ],
+        "altSpellings": [
+            "MK",
+            "The former Yugoslav Republic of Macedonia",
+            "Republic of North Macedonia",
+            "Macedonia, The Former Yugoslav Republic of",
+            "Република Северна Македонија"
+        ],
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "mkd": "Macedonian"
+        },
+        "latlng": [
+            41.83333333,
+            22.0
+        ],
+        "landlocked": true,
+        "borders": [
+            "ALB",
+            "BGR",
+            "GRC",
+            "UNK",
+            "SRB"
+        ],
+        "area": 25713.0,
+        "demonyms": {
+            "eng": {
+                "f": "Macedonian",
+                "m": "Macedonian"
+            },
+            "fra": {
+                "f": "Macédonienne",
+                "m": "Macédonien"
+            }
+        },
+        "cca3": "MKD",
+        "translations": {
+            "ara": {
+                "official": "جمهورية شمال مقدونيا",
+                "common": "شمال مقدونيا"
+            },
+            "bre": {
+                "official": "Republik Makedonia an Norzh",
+                "common": "Makedonia an Norzh"
+            },
+            "ces": {
+                "official": "Republika Severní Makedonie",
+                "common": "Severní Makedonie"
+            },
+            "cym": {
+                "official": "Republic of North Macedonia",
+                "common": "North Macedonia"
+            },
+            "deu": {
+                "official": "Republik Nordmazedonien",
+                "common": "Nordmazedonien"
+            },
+            "est": {
+                "official": "Põhja-Makedoonia Vabariik",
+                "common": "Põhja-Makedoonia"
+            },
+            "fin": {
+                "official": "Pohjois-Makedonian tasavalta",
+                "common": "Pohjois-Makedonia"
+            },
+            "fra": {
+                "official": "République de Macédoine du Nord",
+                "common": "Macédoine du Nord"
+            },
+            "hrv": {
+                "official": "Republika Sjeverna Makedonija",
+                "common": "Sjeverna Makedonija"
+            },
+            "hun": {
+                "official": "Észak-macedón Köztársaság",
+                "common": "Észak-Macedónia"
+            },
+            "ind": {
+                "official": "Republik Makedonia Utara",
+                "common": "Makedonia Utara"
+            },
+            "ita": {
+                "official": "Repubblica di Macedonia del Nord",
+                "common": "Macedonia del Nord"
+            },
+            "jpn": {
+                "official": "北マケドニア共和国",
+                "common": "北マケドニア "
+            },
+            "kor": {
+                "official": "북마케도니아 공화국",
+                "common": "북마케도니아"
+            },
+            "nld": {
+                "official": "Republiek Noord-Macedonië",
+                "common": "Noord-Macedonië"
+            },
+            "per": {
+                "official": "جمهوری مقدونیه شمالی",
+                "common": "مقدونیه شمالی"
+            },
+            "pol": {
+                "official": "Republika Macedonii Północnej",
+                "common": "Macedonia Północna"
+            },
+            "por": {
+                "official": "República da Macedônia do Norte",
+                "common": "Macedónia do Norte"
+            },
+            "rus": {
+                "official": "Республика Северная Македония",
+                "common": "Северная Македония"
+            },
+            "slk": {
+                "official": "Severomacedónska republika",
+                "common": "Severné Macedónsko"
+            },
+            "spa": {
+                "official": "República de Macedonia del Norte",
+                "common": "Macedonia del Norte"
+            },
+            "srp": {
+                "official": "Република Северна Македонија",
+                "common": "Северна Македонија"
+            },
+            "swe": {
+                "official": "Republiken Nordmakedonien",
+                "common": "Nordmakedonien"
+            },
+            "tur": {
+                "official": "Kuzey Makedonya Cumhuriyeti",
+                "common": "Kuzey Makedonya"
+            },
+            "urd": {
+                "official": "جمہوریہ مقدونیہ",
+                "common": "شمالی مقدونیہ"
+            },
+            "zho": {
+                "official": "北馬其頓共和國",
+                "common": "北馬其頓"
+            }
+        },
+        "flag": "🇲🇰",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/55Q8MEnF6ACdu3q79",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/53293"
+        },
+        "population": 1822612,
+        "gini": {
+            "2018": 33.0
+        },
+        "fifa": "MKD",
+        "car": {
+            "signs": [
+                "MK"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "continents": [
+            "Europe"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/mk.png",
+            "svg": "https://flagcdn.com/mk.svg",
+            "alt": "The flag of North Macedonia has a red field, at the center of which is a golden-yellow sun with eight broadening rays that extend to the edges of the field."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/mk.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/mk.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                42.0,
+                21.43
+            ]
+        },
+        "postalCode": {
+            "format": "####",
+            "regex": "^(\\d{4})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Latvia",
+            "official": "Republic of Latvia",
+            "nativeName": {
+                "lav": {
+                    "official": "Latvijas Republikas",
+                    "common": "Latvija"
+                }
+            }
+        },
+        "tld": [
+            ".lv"
+        ],
+        "cca2": "LV",
+        "ccn3": "428",
+        "cioc": "LAT",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "EUR": {
+                "symbol": "€",
+                "name": "Euro"
+            }
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "71"
+            ]
+        },
+        "capital": [
+            "Riga"
+        ],
+        "altSpellings": [
+            "LV",
+            "Republic of Latvia",
+            "Latvijas Republika"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "lav": "Latvian"
+        },
+        "latlng": [
+            57.0,
+            25.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "BLR",
+            "EST",
+            "LTU",
+            "RUS"
+        ],
+        "area": 64559.0,
+        "demonyms": {
+            "eng": {
+                "f": "Latvian",
+                "m": "Latvian"
+            },
+            "fra": {
+                "f": "Lettone",
+                "m": "Letton"
+            }
+        },
+        "cca3": "LVA",
+        "translations": {
+            "ara": {
+                "official": "جمهورية لاتفيا",
+                "common": "لاتفيا"
+            },
+            "bre": {
+                "official": "Republik Latvia",
+                "common": "Latvia"
+            },
+            "ces": {
+                "official": "Lotyšská republika",
+                "common": "Lotyšsko"
+            },
+            "cym": {
+                "official": "Republic of Latvia",
+                "common": "Latvia"
+            },
+            "deu": {
+                "official": "Republik Lettland",
+                "common": "Lettland"
+            },
+            "est": {
+                "official": "Läti Vabariik",
+                "common": "Läti"
+            },
+            "fin": {
+                "official": "Latvian tasavalta",
+                "common": "Latvia"
+            },
+            "fra": {
+                "official": "République de Lettonie",
+                "common": "Lettonie"
+            },
+            "hrv": {
+                "official": "Republika Latvija",
+                "common": "Latvija"
+            },
+            "hun": {
+                "official": "Lett Köztársaság",
+                "common": "Lettország"
+            },
+            "ind": {
+                "official": "Republik Latvia",
+                "common": "Latvia"
+            },
+            "ita": {
+                "official": "Repubblica di Lettonia",
+                "common": "Lettonia"
+            },
+            "jpn": {
+                "official": "ラトビア共和国",
+                "common": "ラトビア"
+            },
+            "kor": {
+                "official": "라트비아 공화국",
+                "common": "라트비아"
+            },
+            "nld": {
+                "official": "Republiek Letland",
+                "common": "Letland"
+            },
+            "per": {
+                "official": "جمهوری لتونی",
+                "common": "لتونی"
+            },
+            "pol": {
+                "official": "Republika Łotewska",
+                "common": "Łotwa"
+            },
+            "por": {
+                "official": "República da Letónia",
+                "common": "Letónia"
+            },
+            "rus": {
+                "official": "Латвийская Республика",
+                "common": "Латвия"
+            },
+            "slk": {
+                "official": "Lotyšská republika",
+                "common": "Lotyšsko"
+            },
+            "spa": {
+                "official": "República de Letonia",
+                "common": "Letonia"
+            },
+            "srp": {
+                "official": "Летонска Република",
+                "common": "Летонија"
+            },
+            "swe": {
+                "official": "Republiken Lettland",
+                "common": "Lettland"
+            },
+            "tur": {
+                "official": "Letonya Cumhuriyeti",
+                "common": "Letonya"
+            },
+            "urd": {
+                "official": "جمہوریہ لٹویا",
+                "common": "لٹویا"
+            },
+            "zho": {
+                "official": "拉脱维亚共和国",
+                "common": "拉脱维亚"
+            }
+        },
+        "flag": "🇱🇻",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/iQpUkH7ghq31ZtXe9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/72594"
+        },
+        "population": 1829000,
+        "gini": {
+            "2018": 35.1
+        },
+        "fifa": "LVA",
+        "car": {
+            "signs": [
+                "LV"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "continents": [
+            "Europe"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/lv.png",
+            "svg": "https://flagcdn.com/lv.svg",
+            "alt": "The flag of Latvia has a carmine-red field with a thin white horizontal band across the middle of the field."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/lv.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/lv.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                56.95,
+                24.1
+            ]
+        },
+        "postalCode": {
+            "format": "LV-####",
+            "regex": "^(?:LV)*(\\d{4})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Estonia",
+            "official": "Republic of Estonia",
+            "nativeName": {
+                "est": {
+                    "official": "Eesti Vabariik",
+                    "common": "Eesti"
+                }
+            }
+        },
+        "tld": [
+            ".ee"
+        ],
+        "cca2": "EE",
+        "ccn3": "233",
+        "cioc": "EST",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "EUR": {
+                "symbol": "€",
+                "name": "Euro"
+            }
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "72"
+            ]
+        },
+        "capital": [
+            "Tallinn"
+        ],
+        "altSpellings": [
+            "EE",
+            "Eesti",
+            "Republic of Estonia",
+            "Eesti Vabariik"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "est": "Estonian"
+        },
+        "latlng": [
+            59.0,
+            26.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "LVA",
+            "RUS"
+        ],
+        "area": 45227.0,
+        "demonyms": {
+            "eng": {
+                "f": "Estonian",
+                "m": "Estonian"
+            },
+            "fra": {
+                "f": "Estonienne",
+                "m": "Estonien"
+            }
+        },
+        "cca3": "EST",
+        "translations": {
+            "ara": {
+                "official": "جمهورية إستونيا",
+                "common": "إستونيا"
+            },
+            "bre": {
+                "official": "Republik Estonia",
+                "common": "Estonia"
+            },
+            "ces": {
+                "official": "Estonská republika",
+                "common": "Estonsko"
+            },
+            "cym": {
+                "official": "Gweriniaeth Estonia",
+                "common": "Estonia"
+            },
+            "deu": {
+                "official": "Republik Estland",
+                "common": "Estland"
+            },
+            "est": {
+                "official": "Eesti Vabariik",
+                "common": "Eesti"
+            },
+            "fin": {
+                "official": "Viron tasavalta",
+                "common": "Viro"
+            },
+            "fra": {
+                "official": "République d'Estonie",
+                "common": "Estonie"
+            },
+            "hrv": {
+                "official": "Republika Estonija",
+                "common": "Estonija"
+            },
+            "hun": {
+                "official": "Észt Köztársaság",
+                "common": "Észtország"
+            },
+            "ind": {
+                "official": "Republik Estonia",
+                "common": "Estonia"
+            },
+            "ita": {
+                "official": "Repubblica di Estonia",
+                "common": "Estonia"
+            },
+            "jpn": {
+                "official": "エストニア共和国",
+                "common": "エストニア"
+            },
+            "kor": {
+                "official": "에스토니아 공화국",
+                "common": "에스토니아"
+            },
+            "nld": {
+                "official": "Republiek Estland",
+                "common": "Estland"
+            },
+            "per": {
+                "official": "جمهوری استونی",
+                "common": "اِستونی"
+            },
+            "pol": {
+                "official": "Republika Estońska",
+                "common": "Estonia"
+            },
+            "por": {
+                "official": "República da Estónia",
+                "common": "Estónia"
+            },
+            "rus": {
+                "official": "Эстонская Республика",
+                "common": "Эстония"
+            },
+            "slk": {
+                "official": "Estónska republika",
+                "common": "Estónsko"
+            },
+            "spa": {
+                "official": "República de Estonia",
+                "common": "Estonia"
+            },
+            "srp": {
+                "official": "Естонска Република",
+                "common": "Естонија"
+            },
+            "swe": {
+                "official": "Republiken Estland",
+                "common": "Estland"
+            },
+            "tur": {
+                "official": "Estonya Cumhuriyeti",
+                "common": "Estonya"
+            },
+            "urd": {
+                "official": "جمہوریہ اسٹونیا",
+                "common": "اسٹونیا"
+            },
+            "zho": {
+                "official": "爱沙尼亚共和国",
+                "common": "爱沙尼亚"
+            }
+        },
+        "flag": "🇪🇪",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/6SsynwGUodL1sDvq8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/79510"
+        },
+        "population": 1369995,
+        "gini": {
+            "2018": 30.3
+        },
+        "fifa": "EST",
+        "car": {
+            "signs": [
+                "EST"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "continents": [
+            "Europe"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/ee.png",
+            "svg": "https://flagcdn.com/ee.svg",
+            "alt": "The flag of Estonia is composed of three equal horizontal bands of blue, black and white."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/ee.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/ee.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                59.43,
+                24.72
+            ]
+        },
+        "postalCode": {
+            "format": "#####",
+            "regex": "^(\\d{5})$"
+        }
+    }
+]
