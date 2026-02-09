@@ -2,6 +2,18 @@
 
 Aplicación para obtener y consultar temperaturas de capitales europeas utilizando la API de OpenWeatherMap.
 
+## Cumplimiento del enunciado
+
+Esta sección indica **dónde se cumple cada apartado** requerido en el enunciado del proyecto (`ENUNCIADO.txt`).
+
+| Enunciado | Requisito | Dónde se cumple |
+|-----------|-----------|-----------------|
+| **1** | Almacenar en MySQL los datos de países de Europa (nombre, capital, región, subregión, cca2, cca3, unMember, fronteras) | **Esquema:** `esquema.sql` — tablas `paises` (columnas nombre, capital, region, subregion, cca2, cca3, miembroUE, etc.) y `fronteras`. **Carga:** `bd_modulo.py` — `insertar_desde_json()` (lee `PaisesEuropa.json`) e inserta con `insertar_pais()` e `insertar_frontera()`. *Nota: el campo de pertenencia a organizaciones se guarda como `miembroUE` (UE); el JSON de la API REST Countries incluye `unMember` si se quisiera usar.* |
+| **2** | Obtener temperaturas de todas las capitales; mitad de resultados en formato **JSON** y mitad en **XML** | **`api_modulo.py`** — función `obtener_temperaturas_todos_paises()`: primera mitad de países con `requests.get()` + `r.json()` (JSON); segunda mitad con `mode=xml` y `xml.etree.ElementTree.fromstring()` (XML). |
+| **3** | Extraer y almacenar en BD (asociado al timestamp): temperatura, sensación térmica, mínima, máxima, humedad, amanecer, atardecer. Proceso ejecutable más de una vez | **Esquema:** `esquema.sql` — tabla `temperaturas` (timestamp, temperatura, sensacion, minima, maxima, humedad, amanecer, atardecer). **Inserción:** `bd_modulo.py` — `insertar_temperatura()`. **Flujo:** `api_modulo.py` obtiene los datos de la API (JSON/XML) y llama a `insertar_temperatura()` con `datetime.now()`; cada ejecución añade nuevos registros. **Menú:** opción **2** en `main.py` permite ejecutar este proceso tantas veces como se quiera. |
+| **4** | Aplicación que pide el nombre de un país y muestra los datos de temperatura más actuales de su capital y de las capitales de sus países fronterizos | **`main.py`** — opción **3**: pide nombre de país al usuario y llama a `bd_modulo.obtener_temperaturas_fronteras()`. **`bd_modulo.py`** — `obtener_temperaturas_fronteras()`: obtiene el registro más reciente (`ORDER BY timestamp DESC LIMIT 1`) del país y, por cada país fronterizo, la temperatura más reciente. Se muestran en consola. |
+| **5** | Menú: (1) Insertar datos de países desde JSON (una vez), (2) Obtener temperaturas de la API y guardar en BD (varias veces), (3) Obtener de la BD temperatura de un país y fronterizos | **`main.py`** — bucle principal: opción **1** = insertar desde JSON (`insertar_desde_json(conn, RUTA_JSON)`); opción **2** = `api_modulo.obtener_temperaturas_todos_paises()`; opción **3** = pedir país y llamar a `obtener_temperaturas_fronteras()`. |
+
 ## Funcionalidades
 
 1. **Insertar países desde JSON**: Carga datos de países europeos en la base de datos MySQL
