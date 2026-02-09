@@ -41,7 +41,7 @@ pip install mysql-connector-python==8.2.0 python-dotenv==1.0.0 requests==2.31.0
 - Tener MySQL Server (o MariaDB) ejecutándose en tu máquina
 - Conocer el usuario y contraseña de MySQL (por defecto usuario `root`)
 
-**Recomendación**: Utiliza [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) para administrar fácilmente tu base de datos de forma visual.
+**Recomendación**: Utiliza MySQL Workbench para administrar la base de datos de forma visual.
 
 #### Opción 1: Desde PowerShell (Recomendado en Windows)
 
